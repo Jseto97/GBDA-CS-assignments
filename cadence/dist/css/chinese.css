@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+.chinese {
+display:block;
+}
+li .chinese {
+display:inline;
+}
+.english {
+display:none;
+}
+
+</body>
+</html>
